@@ -2,7 +2,9 @@
 
 
 
-1
+first task
+
+
 function newPrice(currentPrice, discount)
  {
     if (typeof currentPrice !== "number" || typeof discount !== "number") {
@@ -20,7 +22,9 @@ function newPrice(currentPrice, discount)
     
 }
 
-2
+second task
+
+
 function validOtp(otp) {
     if (otp.length==8 && otp.startsWith("ph-"))
     {
@@ -36,7 +40,11 @@ function validOtp(otp) {
     }
 }
 
-3
+third task
+
+
+
+
 function finalScore(omr) {
     if((omr.right+omr.wrong+omr.skip)!==100)
     {
@@ -48,7 +56,7 @@ function finalScore(omr) {
 
 }
 
-4 
+fourth task 
 
 function gonoVote(array) {
     let haVariable=0;
@@ -86,7 +94,7 @@ function gonoVote(array) {
 }
 
 
-5
+Fifth task
 
 
 function analyzeText(str) {
