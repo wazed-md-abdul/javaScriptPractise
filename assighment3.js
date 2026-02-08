@@ -68,7 +68,7 @@ function finalScore(omr) {
 
 }
 
-fourth task 
+Fourth Assignment
 
 function gonoVote(array) {
     let haVariable=0;
@@ -106,7 +106,7 @@ function gonoVote(array) {
 }
 
 
-Fifth task
+Fifth Assignment
 
 
 function analyzeText(str) {
