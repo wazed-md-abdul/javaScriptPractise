@@ -1,8 +1,8 @@
 
 
 
+First Assignment 
 
-1
 function newPrice(currentPrice, discount)
  {
     if (typeof currentPrice !== "number" || typeof discount !== "number") {
@@ -20,7 +20,9 @@ function newPrice(currentPrice, discount)
     
 }
 
-2
+Second Assignment
+
+
 function validOtp(otp) {
     if (otp.length==8 && otp.startsWith("ph-"))
     {
@@ -36,7 +38,8 @@ function validOtp(otp) {
     }
 }
 
-3
+Third Assignment
+
 function finalScore(omr) {
     if((omr.right+omr.wrong+omr.skip)!==100)
     {
