@@ -52,7 +52,6 @@ function checkPassword(password)
         reason
     }
 }
- 
 
 
 
