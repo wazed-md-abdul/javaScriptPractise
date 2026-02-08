@@ -54,5 +54,4 @@ function checkPassword(password)
 }
 
 
-
  console.log(checkPassword(" "))
