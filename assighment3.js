@@ -3,12 +3,6 @@
 
 First Assignment 
 
-<<<<<<< HEAD
-=======
-first task
-
-
->>>>>>> 515201a6184c458865d5fd1a8aca6a69f5ca2e01
 function newPrice(currentPrice, discount)
  {
     if (typeof currentPrice !== "number" || typeof discount !== "number") {
@@ -26,11 +20,7 @@ function newPrice(currentPrice, discount)
     
 }
 
-<<<<<<< HEAD
 Second Assignment
-=======
-second task
->>>>>>> 515201a6184c458865d5fd1a8aca6a69f5ca2e01
 
 
 function validOtp(otp) {
@@ -48,14 +38,7 @@ function validOtp(otp) {
     }
 }
 
-<<<<<<< HEAD
 Third Assignment
-=======
-third task
-
-
-
->>>>>>> 515201a6184c458865d5fd1a8aca6a69f5ca2e01
 
 function finalScore(omr) {
     if((omr.right+omr.wrong+omr.skip)!==100)
