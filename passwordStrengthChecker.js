@@ -52,9 +52,6 @@ function checkPassword(password)
         reason
     }
 }
- 
-
-
 
 
  console.log(checkPassword(" "))
